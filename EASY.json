@@ -1,0 +1,43 @@
+{
+    "questions": [
+        {
+            "ques": "What is the term for the ability of a computer or a robot to perform tasks that normally require human intelligence?",
+            "answ": [
+                "Artificial intelligence",
+                "Machine learning",
+                "Data mining",
+                "Natural language processing"
+            ],
+            "ans": [
+                0
+            ],
+            "choices": []
+        },
+        {
+            "ques": "What is the name of the test that is used to measure a machine's ability to exhibit intelligent behavior equivalent to or indistinguishable from that of a human?",
+            "answ": [
+                "Turing test",
+                "IQ test",
+                "Rorschach test",
+                "CAPTCHA test"
+            ],
+            "ans": [
+                0
+            ],
+            "choices": []
+        },
+        {
+            "ques": "What is the subfield of AI that focuses on creating systems that can understand and generate natural languages, such as speech and text?",
+            "answ": [
+                "Computer vision",
+                "Robotics",
+                "Natural language processing",
+                "Knowledge representation"
+            ],
+            "ans": [
+                2
+            ],
+            "choices": []
+        }
+    ]
+}

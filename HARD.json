@@ -1,0 +1,43 @@
+{
+    "questions": [
+        {
+            "ques": "The Father of Artificial Intelligence is?",
+            "answ": [
+                "John McCarthy",
+                "Charles Babage",
+                "Alan Tuning",
+                "None of the Above"
+            ],
+            "ans": [
+                0
+            ],
+            "choices": []
+        },
+        {
+            "ques": "Blind Search can be used for which of the following situations?",
+            "answ": [
+                "Small Search Space",
+                "Real Life Simulation",
+                "Advanced Game Theory",
+                "None of the Above"
+            ],
+            "ans": [
+                0
+            ],
+            "choices": []
+        },
+        {
+            "ques": "Which of the following is the common language for Artificial Intelligence?",
+            "answ": [
+                "Lisp",
+                "Java",
+                "Python",
+                "PHP"
+            ],
+            "ans": [
+                2
+            ],
+            "choices": []
+        }
+    ]
+}
